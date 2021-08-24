@@ -1,4 +1,4 @@
-![Rosa Reyes](https://user-images.githubusercontent.com/63470281/130644619-ebca6811-f799-4474-b86f-fecc6e26f11e.jpg)
+![Rosa Reyes](https://user-images.githubusercontent.com/63470281/130660077-eadde679-c2cf-4603-b7e1-56f7ea6f3bee.jpg)
 
 Hi folks!👋
 
