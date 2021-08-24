@@ -13,7 +13,9 @@ Hi folks!👋
 - [LinkedIn](https://www.linkedin.com/in/rosaareyesc/)
 - [UpWork](https://www.upwork.com/freelancers/~01bcf3b51bb38b47a8)
 
-✨Feel free to contact me for any collab or freelancing job you may need✨
+---
+
+**✨Feel free to contact me for any collab or freelancing job you may need✨**
 <!--
 **rosareyes/rosareyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
