@@ -1,4 +1,5 @@
-### Hi there 👋
+![Rosa Reyes](https://user-images.githubusercontent.com/63470281/130580906-c59f8d71-5b8d-449c-83e6-d3c9272301c4.png)
+
 
 <!--
 **rosareyes/rosareyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
