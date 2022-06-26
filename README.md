@@ -2,7 +2,7 @@
 
 Hi folks!👋
 
-⚡ I'm a front-end developer, focused on JavaScript, specifically ReactJS. 
+⚡ I'm a front-end developer, focused on ReactJS atm. 
 
 🤓 I'm currently studying Computer Science and Engineering. Therefore, t's my passion to solve problems with critical thinking and creativity.
 
