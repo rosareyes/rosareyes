@@ -1,5 +1,4 @@
-![Rosa Reyes](https://user-images.githubusercontent.com/63470281/150864008-5341a5db-1d7b-43f7-b2b1-4e75f4412cba.png)
-
+![Rosa Reyes](https://user-images.githubusercontent.com/63470281/218309571-362c20f5-f3d1-4289-a920-57f94fd25e1d.jpg)
 Hi folks!👋
 
 ⚡ I'm a front-end developer, focused on ReactJS atm. 
