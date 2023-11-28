@@ -16,9 +16,8 @@ Hi folks!👋
 - [UpWork](https://www.upwork.com/freelancers/~01bcf3b51bb38b47a8)
 
 ## Stats
-
-![Rosa stats](https://raw.githubusercontent.com/rosareyes/personal-stats/master/generated/overview.svg#gh-light-mode-only)
-![Rosa langs](https://raw.githubusercontent.com/rosareyes/personal-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/rosareyes/personal-stats/blob/master/generated/overview.svg)
+![](https://github.com/rosareyes/personal-stats/blob/master/generated/languages.svg)
 ---
 
 **✨Feel free to contact me for any collab or freelancing job you may need✨**
