@@ -2,7 +2,7 @@
 
 Hi folks!👋
 
-⚡ I'm a Computer Science and Engineering student focusing in front-end development💻 atm, specializing in ReactJS. My work with global startups 🌍 has refined my ability to collaborate with diverse teams.
+⚡ I'm a Computer Science and Engineering student focusing in front-end development atm, specializing in ReactJS. My work with global startups has refined my ability to collaborate with diverse teams.
 
 🤓 As a student and a developer, my mission is to creatively and efficiently solve problems. Welcome to my GitHub! 🎉
 
