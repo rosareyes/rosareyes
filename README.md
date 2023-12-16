@@ -4,7 +4,9 @@ Hi folks!👋
 
 ⚡ I'm a Computer Science and Engineering student focusing in front-end development atm, specializing in ReactJS. My work with global startups has refined my ability to collaborate with diverse teams.
 
-🤓 As a student and a developer, my mission is to creatively and efficiently solve problems. Welcome to my GitHub! 🎉
+My passion lies in crafting solutions that are as creative as they are logical. Whether it's optimizing traffic flow with AI or designing responsive dashboards, I bring enthusiasm and efficiency to the table.
+
+Take a peek at my projects to see how I blend innovation with practicality. Let's connect and build something amazing together! 🎉
 
 ## 🧰 Skillset
 
@@ -19,5 +21,3 @@ Hi folks!👋
 ![](https://github.com/rosareyes/personal-stats/blob/master/generated/overview.svg)
 ![](https://github.com/rosareyes/personal-stats/blob/master/generated/languages.svg)
 ---
-
-**✨Feel free to contact me for any collab or freelancing job you may need✨**
