@@ -14,8 +14,8 @@ Take a peek at my projects to see how I blend innovation with practicality. Let'
 
 ## 📬 Let's talk!
 
-- [LinkedIn](https://www.linkedin.com/in/rosaareyesc/)
-- [UpWork](https://www.upwork.com/freelancers/~01bcf3b51bb38b47a8)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosaareyesc/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bcf3b51bb38b47a8)
 
 ## Stats
 ![](https://github.com/rosareyes/personal-stats/blob/master/generated/overview.svg)
