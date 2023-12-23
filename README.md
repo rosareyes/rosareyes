@@ -1,4 +1,4 @@
-![Rosa Reyes](https://github.com/rosareyes/rosareyes/assets/63470281/83681d0c-b08a-4456-9737-442bf29d1702)
+![Rosa Reyes](https://github.com/rosareyes/rosareyes/assets/63470281/cef42250-4897-42c3-8bf8-8f1ea666686d)
 
 Hi folks!👋
 
