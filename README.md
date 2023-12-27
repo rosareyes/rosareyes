@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm <a href='https://rosareyes.vercel.app/' target='_blank'>Rosa</a>, a Computer Science and Engineering student specializing in full-stack development, with a focus on ReactJS.
+I'm <a href='https://rosareyes.vercel.app/' target='_blank'>Rosa</a>, a Computer Science and Engineering student specializing in full-stack development, with a focus on ReactJS and Typescript.
 
 
 ## 🧰 Skillset
